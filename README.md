@@ -25,6 +25,9 @@ Thanks to it, I gained the knowledge necessary to work with:
   - SQL
   
   - Docker
+  
+  - CI/CD
+  - Testing
 
 I'm now looking for professional opportunities in the sector, as well as experiences that help me learn and develop my skills (as well as keep loving what I do!)
 
