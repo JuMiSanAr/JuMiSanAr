@@ -27,7 +27,7 @@ Thanks to it, I gained the knowledge necessary to work with:
   - CI/CD
   - Testing
 
-I'm now looking for professional opportunities in the sector, as well as experiences that help me learn and develop my skills (as well as keep loving what I do!)
+I'm now looking for professional opportunities in the sector, as well as experiences that help me contribute to real-world projects (as well as keep loving what I do!)
 
 
 Amongst the things that I like to do in my free time, I'm an active volleyball player, a classical musician (French Horn) and a videogame enthusiast.
