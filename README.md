@@ -6,13 +6,8 @@ In August 2020, I started learning coding on my spare time with the goal of deve
 After a few months, I realized I loved it so much that I decided that I wanted to do that for a living and I applied to the Propulsion Academy program in Zurich in order to become a full-stack developer.
 
 Thanks to it, I gained the knowledge necessary to work with:
+
   - Git
-  
-  - HTML
-  
-  - CSS
-    - SASS
-    - React Styled-Components
   
   - Javascript
     - React
@@ -22,6 +17,12 @@ Thanks to it, I gained the knowledge necessary to work with:
   - Python
     - Django
     - Django REST
+  
+  - HTML
+  
+  - CSS
+    - SASS
+    - React Styled-Components  
   
   - SQL
   
