@@ -15,6 +15,8 @@ Thanks to it, I gained the knowledge necessary to work with:
   
   - Javascript
   - React
+
+  - Typescript
   
   - Python
   - Django
