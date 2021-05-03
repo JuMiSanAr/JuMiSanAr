@@ -19,8 +19,8 @@ Thanks to it, I gained the knowledge necessary to work with:
   - Typescript
   
   - Python
-  - Django
-  - Django REST
+    - Django
+    - Django REST
   
   - SQL
   
