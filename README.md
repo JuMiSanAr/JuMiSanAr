@@ -12,6 +12,7 @@ Thanks to it, I gained the knowledge necessary to work with:
   
   - CSS
     - SASS
+    - React Styled-Components
   
   - Javascript
     - React
