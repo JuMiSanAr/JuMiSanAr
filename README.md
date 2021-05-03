@@ -11,10 +11,10 @@ Thanks to it, I gained the knowledge necessary to work with:
   - HTML
   
   - CSS
-  - SASS
+    - SASS
   
   - Javascript
-  - React
+    - React
 
   - Typescript
   
