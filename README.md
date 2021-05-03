@@ -25,7 +25,7 @@ Thanks to it, I gained the knowledge necessary to work with:
     - React Styled-Components  
   
   - SQL
-    - Postgres
+    - PostgreSQL
   
   - Docker
   
