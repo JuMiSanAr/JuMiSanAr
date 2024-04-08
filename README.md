@@ -38,5 +38,3 @@ I gained the knowledge necessary to work with:
   
   - CI/CD
   - Testing
-
-Amongst the things that I like to do in my free time, I'm an active volleyball player, a classical musician (French Horn) and a videogame enthusiast.
