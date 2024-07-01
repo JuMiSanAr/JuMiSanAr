@@ -11,8 +11,6 @@ I have been working as a full-stack developer since September 2021 at camptocamp
 
 <a href="https://www.linkedin.com/in/jumisanar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-[![Codewars Badge](https://www.codewars.com/users/JMWilliems/badges/large)](https://www.codewars.com/users/JMWilliems)
-
 ----------
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuMiSanAr&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&show=prs_merged,prs_merged_percentage&hide=stars,issues" alt="my Github Stats"/>
@@ -20,3 +18,7 @@ I have been working as a full-stack developer since September 2021 at camptocamp
 ----------
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuMiSanAr&show_icons=true&locale=en&layout=donut&theme=transparent&hide=c%23,HLSL,ShaderLab,ASP.NET&size_weight=0.5&count_weight=0.5" alt="my top langs" />
+
+----------
+
+[![Codewars Badge](https://www.codewars.com/users/JMWilliems/badges/large)](https://www.codewars.com/users/JMWilliems)
